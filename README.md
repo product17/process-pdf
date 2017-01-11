@@ -2,7 +2,11 @@
 
 #### note:
 
-`NodeJS` and `npm` must be installed to run this script.
+`NodeJS` and `npm` must be installed on your machine to run this script.
+
+#### Install
+
+`$ npm install`
 
 #### Run the script
 
